@@ -9,12 +9,12 @@
  */
 int main(void)
 {
-	int c[10];
+
 	int i;
 
 	for (i = 0; i < 10; i++)
 	{
-		printf"%d",(c[i]);
+		printf"%d", i);
 	}
 	putchar('\n');
 	return (0);
